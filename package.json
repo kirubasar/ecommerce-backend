@@ -9,9 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url":"https://github.com/kirubasar/ecommerce-backend.git"
+    "url": "https://github.com/kirubasar/ecommerce-backend.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
 }
